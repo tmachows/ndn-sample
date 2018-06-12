@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>pl.edu.agh.sm.ndnserver.Server</mainClass>
+                            <mainClass>pl.edu.agh.sm.ndn.Server</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
